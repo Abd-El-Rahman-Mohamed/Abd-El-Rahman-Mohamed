@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abd-El-Rahman-Mohamed
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
-- 📫 How to reach me 🔻 n/
-Facebook: https://www.facebook.com/boda.mohama
+- 📫 How to reach me 🔻 
+<br>Facebook: https://www.facebook.com/boda.mohama
 Twitter: https://twitter.com/BodyMody7
 IG: https://www.instagram.com/abdelrahmantech/
 
