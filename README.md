@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning web development
 - 📫 How to reach me 🔻 
 <br>Facebook: https://www.facebook.com/boda.mohama
-Twitter: https://twitter.com/BodyMody7
-IG: https://www.instagram.com/abdelrahmantech/
+<br>Twitter: https://twitter.com/BodyMody7
+<br>IG: https://www.instagram.com/abdelrahmantech/
 
 <!---
 Abd-El-Rahman-Mohamed/Abd-El-Rahman-Mohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
